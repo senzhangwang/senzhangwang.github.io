@@ -20,7 +20,7 @@ body > * {
 
 table{
     border-collapse: separate; 
-    border-spacing: 5px 5px;  /* 水平间距 垂直间距 */
+    border-spacing: 4px 4px;  /* 水平间距 垂直间距 */
 }
 
 a {
